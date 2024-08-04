@@ -15,10 +15,8 @@ const Contacts = () => {
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">WhatsApp</h2>
-                        <p>
-                            +49 1516 2679259
-                            <a href="https://wa.me/4915162679259"> WhatsApp</a>
-                        </p>
+                        <p>+49 1516 2679259</p>
+                        <p><a href="https://wa.me/4915162679259">WhatsApp</a></p>
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Email</h2>
