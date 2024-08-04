@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 /* Reset and base styles  */
 >>>>>>> eb7b3bd49a92bb5e0dc5bb19a6253c64cc265ce5
+=======
+
+>>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
 * {
 	padding: 0px;
 	margin: 0px;
@@ -18,15 +22,22 @@
 :focus,
 :active {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 =======
 	/*outline: none;*/
 >>>>>>> eb7b3bd49a92bb5e0dc5bb19a6253c64cc265ce5
+=======
+	
+>>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
 }
 
 a:focus,
 a:active {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
 	
 }
 
@@ -44,6 +55,7 @@ a:hover  {
 }
 
 
+<<<<<<< HEAD
 =======
 	/* outline: none;*/
 }
@@ -63,6 +75,8 @@ a:hover  {
 
 /* Common */
 >>>>>>> eb7b3bd49a92bb5e0dc5bb19a6253c64cc265ce5
+=======
+>>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
 
 aside, nav, footer, header, section, main {
 	display: block;
@@ -91,10 +105,14 @@ address {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 /* Form */
 >>>>>>> eb7b3bd49a92bb5e0dc5bb19a6253c64cc265ce5
+=======
+
+>>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
 
 input, textarea, button, select {
 	font-family: inherit;
