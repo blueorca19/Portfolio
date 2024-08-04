@@ -1,13 +1,5 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
   "name": "Portfolio",
-=======
-  "name": "portfolio",
->>>>>>> eb7b3bd49a92bb5e0dc5bb19a6253c64cc265ce5
-=======
-  "name": "Portfolio",
->>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
   "version": "0.1.0",
   "private": true,
   "dependencies": {

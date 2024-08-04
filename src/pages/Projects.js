@@ -1,4 +1,4 @@
-// pages/Projects.jsx
+
 import React from 'react';
 import Project from '../components/project/Project';
 import { projects } from '../components/helpers/ProjectList';

@@ -1,136 +1,65 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-/* Reset and base styles  */
->>>>>>> eb7b3bd49a92bb5e0dc5bb19a6253c64cc265ce5
-=======
-
->>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
 * {
-	padding: 0px;
-	margin: 0px;
-	border: none;
+    padding: 0;
+    margin: 0;
+    border: none;
 }
 
 *,
 *::before,
 *::after {
-	box-sizing: border-box;
+    box-sizing: border-box;
 }
 
-:focus,
-:active {
-<<<<<<< HEAD
-<<<<<<< HEAD
-	
-=======
-	/*outline: none;*/
->>>>>>> eb7b3bd49a92bb5e0dc5bb19a6253c64cc265ce5
-=======
-	
->>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
-}
-
-a:focus,
-a:active {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
-	
-}
-
-
-
-a, a:link, a:visited  {
-    
-    text-decoration: none;
-   
-}
-
-a:hover  {
-    
+a, a:link, a:visited {
     text-decoration: none;
 }
 
-
-<<<<<<< HEAD
-=======
-	/* outline: none;*/
-}
-
-/* Links */
-
-a, a:link, a:visited  {
-    /* color: inherit; */
-    text-decoration: none;
-    /* display: inline-block; */
-}
-
-a:hover  {
-    /* color: inherit; */
+a:hover {
     text-decoration: none;
 }
-
-/* Common */
->>>>>>> eb7b3bd49a92bb5e0dc5bb19a6253c64cc265ce5
-=======
->>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
 
 aside, nav, footer, header, section, main {
-	display: block;
+    display: block;
 }
 
 h1, h2, h3, h4, h5, h6, p {
     font-size: inherit;
-	font-weight: inherit;
+    font-weight: inherit;
 }
 
 ul, ul li {
-	list-style: none;
+    list-style: none;
 }
 
 img {
-	vertical-align: top;
+    vertical-align: top;
 }
 
 img, svg {
-	max-width: 100%;
-	height: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 address {
-  font-style: normal;
+    font-style: normal;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-/* Form */
->>>>>>> eb7b3bd49a92bb5e0dc5bb19a6253c64cc265ce5
-=======
-
->>>>>>> f1e8fc2e920716e1798d2e624345bb16911c71b5
-
 input, textarea, button, select {
-	font-family: inherit;
+    font-family: inherit;
     font-size: inherit;
     color: inherit;
     background-color: transparent;
 }
 
 input::-ms-clear {
-	display: none;
+    display: none;
 }
 
 button, input[type="submit"] {
     display: inline-block;
-    box-shadow: none;
-    background-color: transparent;
-    background: none;
     cursor: pointer;
+    box-shadow: none;
+    background: none;
 }
 
 input:focus, input:active,
@@ -139,14 +68,14 @@ button:focus, button:active {
 }
 
 button::-moz-focus-inner {
-	padding: 0;
-	border: 0;
+    padding: 0;
+    border: 0;
 }
 
 label {
-	cursor: pointer;
+    cursor: pointer;
 }
 
 legend {
-	display: block;
+    display: block;
 }
