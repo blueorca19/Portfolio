@@ -18,7 +18,6 @@ const projects = [
         skills: 'JavaScript, React, HTML, CSS',
         img: project03,
         imgBig: project03Big,
-        gitHubLink: "https://github.com/blueorca19",
         siteLink: "https://blueorca19.github.io/Portfolio/"
     }
 ];
