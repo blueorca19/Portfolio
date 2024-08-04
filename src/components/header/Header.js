@@ -1,6 +1,5 @@
 import styles from "./Header.module.css";
-import resume from ".../header/CV.pdf"
-import resume from ".../header/CV.pdf"
+import resume from "./CV.pdf";
 
 const Header = () => {
   return (
@@ -10,7 +9,7 @@ const Header = () => {
           <strong>
             <em>Anna Demydova</em>
           </strong>
-          <br />a Full stack / Backend developer
+          <br />Full stack / Backend developer
         </h1>
         <div className={styles.headerText}>
           <p>with passion for learning and creating.</p>
