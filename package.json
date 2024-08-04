@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://blueorca19.github.io/Portfolio",
+  "homepage": "https://blueorca19.github.io/Portfolio/",
   "eslintConfig": {
     "extends": [
       "react-app",
