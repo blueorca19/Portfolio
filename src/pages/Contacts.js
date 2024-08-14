@@ -7,7 +7,7 @@ const Contacts = () => {
                 <ul className="content-list">
                     <li className="content-list__item">
                         <h2 className="title-2">Location</h2>
-                        <p>Freising 85356, Bavaria Germany</p>
+                        <p>Munich, Bavaria, Germany</p>
                     </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Phone</h2>
